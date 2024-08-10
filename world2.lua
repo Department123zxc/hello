@@ -25,5 +25,6 @@ return {
 0, -- Gia Khánh 2
 140081733, -- Lê Trường Giang 2
 6119513874, -- Kien Duong
+1544352877, -- Kien Duong 2
 2538635284 -- Huỳnh Kiệt
 }
