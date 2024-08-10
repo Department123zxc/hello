@@ -13,7 +13,7 @@ return {
 3528921703, -- Lê Trường Giang
 0, -- Gia Khánh 2
 0, -- Văn Hiếu
-0, -- Trần Dũng
+323780426, -- Trần Dũng
 2783119783, -- Khôi ngu 1
 1314237464, -- Khôi ngu 2
 660629515, -- Khôi ngu 3
