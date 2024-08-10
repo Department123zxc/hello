@@ -22,7 +22,7 @@ return {
 1299647138, -- Khôi ngu 6
 5070064765, -- Tấn Lộc
 635645976, -- Tuấn Khải
-554141086, -- Gia Khánh 2
+0, -- Gia Khánh 2
 140081733, -- Lê Trường Giang 2
 6119513874, -- Kien Duong
 2538635284 -- Huỳnh Kiệt
