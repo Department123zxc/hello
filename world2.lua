@@ -4,7 +4,7 @@ return {
 1423316156, 
 1866954212,
 1161468792, -- Minh Phạm
-451310421, -- Gia Khánh
+0, -- Gia Khánh
 5089621002, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
 1816684745, -- Bùi Đức An
