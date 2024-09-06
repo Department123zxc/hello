@@ -16,6 +16,13 @@ return {
 3528921703, -- Lê Trường Giang
 0, -- Gia Khánh
 0, -- Văn Hiếu
+2783119783, -- Khôi ngu 1
+1314237464, -- Khôi ngu 2
+660629515, -- Khôi ngu 3
+2221231723, -- Khôi ngu 4
+4893448068, -- Khôi ngu 5
+1299647138, -- Khôi ngu 6
+5025134592, -- Khôi ngu 7
 1863803974, -- Võ Lâm Huy
 323780426, -- Trần Dũng
 5070064765, -- Tấn Lộc
