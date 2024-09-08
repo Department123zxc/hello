@@ -32,6 +32,6 @@ return {
 6119513874, -- Kien Duong
 1544352877, -- Kien Duong 2
 1474518865, -- Kien Duong 3
-4437187065, -- Quang Huy
+0, -- Quang Huy
 2538635284 -- Huỳnh Kiệt
 }
