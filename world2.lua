@@ -9,14 +9,12 @@ return {
 7068526607, -- Ng Lờ
 3066114825, -- Dương 1
 --1161468792, -- Minh Phạm
-0, -- Gia Khánh
 0, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
 3879697063, -- Bùi Đức An
 1141261219, -- Hiếu Trung
 3966009046, -- Đào Hải Sơn
 3528921703, -- Lê Trường Giang
-0, -- Gia Khánh
 0, -- Văn Hiếu
 2783119783, -- Khôi ngu 1
 1314237464, -- Khôi ngu 2
