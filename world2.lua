@@ -26,7 +26,7 @@ return {
 826488058, -- Võ Lâm Huy
 323780426, -- Trần Dũng
 5070064765, -- Tấn Lộc
-635645976, -- Tuấn Khải
+0, -- Tuấn Khải
 620438282, -- Gia Khánh 2
 0, -- Lê Trường Giang 2
 6119513874, -- Kien Duong
