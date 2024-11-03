@@ -28,7 +28,7 @@ return {
 5070064765, -- Tấn Lộc
 0, -- Tuấn Khải
 620438282, -- Gia Khánh 2
-0, -- Lê Trường Giang 2
+1972355828, -- Lê Trường Giang 2
 6119513874, -- Kien Duong
 1544352877, -- Kien Duong 2
 1474518865, -- Kien Duong 3
