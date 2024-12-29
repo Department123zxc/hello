@@ -41,5 +41,6 @@ return {
 1376029010, -- Dang Pl
 0, -- Lê Hiếu
 548206106, -- Dạ Uyển
+620438282, -- Bii'x Max Yang' Hồ
 2538635284 -- Huỳnh Kiệt
 }
