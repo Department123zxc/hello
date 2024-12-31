@@ -43,5 +43,6 @@ return {
 548206106, -- Dạ Uyển
 620438282, -- Bii'x Max Yang' Hồ
 3528921703, -- Bii'x Max Yang' Hồ 2 
+1188012583, -- Bii'x Max Yang' Hồ 3
 2538635284 -- Huỳnh Kiệt
 }
