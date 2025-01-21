@@ -11,7 +11,7 @@ return {
 1007410547, -- Dương 1
 3066114825, -- Dương 2
 --1161468792, -- Minh Phạm
-0, -- Trần Huy Quang
+5089621002, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
 3879697063, -- Bùi Đức An
 1141261219, -- Hiếu Trung
