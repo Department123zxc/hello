@@ -9,7 +9,7 @@ return {
 689965893, -- Đỗ Duy Long
 7068526607, -- Ng Lờ
 1007410547, -- Dương 1
-3066114825, -- Dương 1
+3066114825, -- Dương 2
 --1161468792, -- Minh Phạm
 0, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
