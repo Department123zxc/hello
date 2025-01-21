@@ -34,7 +34,7 @@ return {
 826488058, -- Võ Lâm Huy
 323780426, -- Trần Dũng
 5070064765, -- Tấn Lộc
-0, -- Tuấn Khải
+1562537414, -- Tuấn Khải
 620438282, -- Gia Khánh 2
 1972355828, -- Lê Trường Giang 2
 6119513874, -- Kien Duong
