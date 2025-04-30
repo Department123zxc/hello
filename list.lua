@@ -40,5 +40,6 @@ return {
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 3557363391 and "anhbonpr13", -- Mon Shikimi
+2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
