@@ -4,6 +4,7 @@ return {
 "Wirtz_Kingg", -- Gao Ne Troi
 "", -- Gao Ne Troi 2
 "", -- Gao Ne Troi 3
+"YeLoWxShin", -- Nguyễn Minh Nhật
 "azpro2k7", 
 "accquaydffirstsea1", 
 "ACE_xXAZPROGOD123Xx", 
