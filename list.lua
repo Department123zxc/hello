@@ -37,6 +37,7 @@ return {
 1474158198 and "yeufururi", -- Nguyễn Minh Khánh 4
 4044318650 and "icandoallthing12345", -- Trae Young
 619512120 and "lekhanhletien123", -- Lê Văn Tiền
+327632596 and "hvshv", -- Nhật Huy
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 3557363391 and "anhbonpr13", -- Mon Shikimi
