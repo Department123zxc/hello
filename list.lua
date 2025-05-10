@@ -40,6 +40,7 @@ return {
 327632596 and "hvshv", -- Nhật Huy
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
+1127095578 and "phat1443", -- Ngô Gia Huy
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 2538635284 and "DragozFA" -- Huỳnh Kiệt
