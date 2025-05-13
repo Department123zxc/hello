@@ -8,7 +8,7 @@ return {
 4071188600 and "acclaybounty07",
 689965893 and "vietlemon_YT", -- Đỗ Duy Long
 7068526607 and "tuanloc_tl", -- Ng Lờ
-5089621002 and "hwanneinfors", -- Trần Huy Quang
+0 and "", -- Trần Huy Quang
 0 and "", -- Nguyễn Văn Bảo Khánh
 3879697063 and "alaphongco1", -- Bùi Đức An
 1141261219 and "bemancau", -- Hiếu Trung
