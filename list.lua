@@ -41,7 +41,7 @@ return {
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 1058323645 and "NoobChosenOne", -- Ngô Gia Huy
-134874525 and "nhuhoanganh2005", -- Ngô Gia Huy 2
+760179555 and "rumble_gum20", -- Ngô Gia Huy 2
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 2538635284 and "DragozFA" -- Huỳnh Kiệt
