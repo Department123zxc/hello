@@ -44,5 +44,6 @@ return {
 760179555 and "rumble_gum20", -- Ngô Gia Huy 2
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
+776913919 and "huymc2007", -- Bin Tran Huy
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
