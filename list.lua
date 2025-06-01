@@ -41,7 +41,7 @@ return {
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 1058323645 and "NoobChosenOne", -- Ngô Gia Huy
-4472327178 and "tranmai81182", -- Ngô Gia Huy 2
+3077260475 and "ZoneYewRin", -- Ngô Gia Huy 2
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 776913919 and "huymc2007", -- Bin Tran Huy
