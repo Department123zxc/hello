@@ -41,7 +41,7 @@ return {
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 651908366 and "Concac5241", -- Ngô Gia Huy (02/06)
-3077260475 and "ZoneYewRin", -- Ngô Gia Huy 2 (01/06)
+2273089436 and "Hz_LamS123", -- Ngô Gia Huy 2 (02/06)
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 776913919 and "huymc2007", -- Bin Tran Huy
