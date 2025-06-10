@@ -18,6 +18,7 @@ return {
 0 and "", -- Trần Dũng
 962958734 and "phatsd2020", -- Tấn Lộc
 456830417 and "SBTC_XxSangKunXx", -- Tuấn Khải
+451310421 and "anhvay0623", --Gia Khánh 
 0 and "", -- Gia Khánh 2
 0 and "", -- Lê Trường Giang
 1972355828 and "anhcop1011", -- Lê Trường Giang 2
