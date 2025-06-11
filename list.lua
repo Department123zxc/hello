@@ -41,7 +41,7 @@ return {
 327632596 and "hvshv", -- Nhật Huy
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
-1349744095 and "Constantine_0z", -- Ngô Gia Huy (06/06)
+4740721234 and "chemhan3475341", -- Ngô Gia Huy (11/06)
 1688223578 and "concac1152", -- Ngô Gia Huy 2 (07/06)
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
