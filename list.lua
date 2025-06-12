@@ -42,7 +42,7 @@ return {
 0 and "", -- Thành Đạt
 0 and "", -- Trần Bảo Khang
 4740721234 and "chemhan3475341", -- Ngô Gia Huy (11/06)
-1688223578 and "concac1152", -- Ngô Gia Huy 2 (07/06)
+696486260 and "luffymurom7", -- Ngô Gia Huy 2 (12/06)
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 776913919 and "huymc2007", -- Bin Tran Huy
