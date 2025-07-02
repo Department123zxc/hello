@@ -44,5 +44,6 @@ return {
 3557363391 and "anhbonpr13", -- Mon Shikimi
 2529209500 and "danchoihathanh", -- Nguyễn Nguyên
 776913919 and "huymc2007", -- Bin Tran Huy
+1217264395 and "candyfruitmon1", -- Minhgiau Ho
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
