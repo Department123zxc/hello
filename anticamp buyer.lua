@@ -1,6 +1,7 @@
 return {
 "giauk113", -- Nguyễn Minh Khánh
 "bemancau", -- Hieu Trung
+"SPxtritoxic113", -- Hieu Trung 2
 "Wirtz_Kingg", -- Gao Ne Troi
 "", -- Gao Ne Troi 2
 "", -- Gao Ne Troi 3
