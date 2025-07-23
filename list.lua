@@ -16,7 +16,7 @@ return {
 0 and "", -- Văn Hiếu
 826488058 and "llguell", -- Võ Lâm Huy
 0 and "", -- Trần Dũng
-962958734 and "phatsd2020", -- Tấn Lộc
+2015312131 and "lochichao", -- Tấn Lộc
 456830417 and "SBTC_XxSangKunXx", -- Tuấn Khải
 451310421 and "anhvay0623", --Gia Khánh 
 0 and "", -- Gia Khánh 2
