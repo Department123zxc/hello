@@ -46,5 +46,6 @@ return {
 776913919 and "huymc2007", -- Bin Tran Huy
 1217264395 and "candyfruitmon1", -- Minhgiau Ho
 8634602717 and "hihihaha120098", -- Viet Minhh
+1440646118 and "Bkjio34", -- 쿵팡 (kungfang)
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
