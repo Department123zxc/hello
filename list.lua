@@ -48,5 +48,6 @@ return {
 8634602717 and "hihihaha120098", -- Viet Minhh
 1440646118 and "Bkjio34", -- 쿵팡 (kungfang)
 4980475655 and "accregroger12", -- Long Hoàng
+735012396 and "Mr0Crocodile1", -- Reiji Azuma
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
