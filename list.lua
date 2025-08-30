@@ -16,7 +16,6 @@ return {
 0 and "", -- Văn Hiếu
 826488058 and "llguell", -- Võ Lâm Huy
 0 and "", -- Trần Dũng
-2015312131 and "lochichao", -- Tấn Lộc
 456830417 and "SBTC_XxSangKunXx", -- Tuấn Khải
 451310421 and "anhvay0623", --Gia Khánh 
 0 and "", -- Gia Khánh 2
@@ -50,5 +49,6 @@ return {
 4980475655 and "accregroger12", -- Long Hoàng
 735012396 and "Mr0Crocodile1", -- Reiji Azuma
 5803718504 and "deptraiquasf", -- Hay Nuốt Khuyên Môi
+962958734 and "phatsd2020", -- Tấn Lộc
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
