@@ -49,6 +49,6 @@ return {
 4980475655 and "accregroger12", -- Long Hoàng
 735012396 and "Mr0Crocodile1", -- Reiji Azuma
 5803718504 and "deptraiquasf", -- Hay Nuốt Khuyên Môi
-962958734 and "phatsd2020", -- Tấn Lộc
+2015312131 and "lochichao", -- Tấn Lộc
 2538635284 and "DragozFA" -- Huỳnh Kiệt
 }
